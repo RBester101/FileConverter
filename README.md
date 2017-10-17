@@ -1,2 +1,2 @@
 # FileConverter
-Ignore Project CSVFileConverter (Console App)
+Ignore Project FileConverter (Console App)
